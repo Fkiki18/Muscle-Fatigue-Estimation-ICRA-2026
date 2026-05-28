@@ -44,4 +44,15 @@ were also tested on unseen movement directions to evaluate cross-task generaliza
 - Provides subject-specific ML models suitable for **adaptive control and timely intervention** in pHRI
 
 ---
+<p align="center">
+  <img src="ICRA 2026 Poster.jpg" width="700" alt="Experimental setup showing a human participant interacting with a collaborative robot while wearing sEMG sensors on the arm"/>
+  <br>
+  <em>Experimental setup: human participant interacting with a collaborative robot under admittance control, with sEMG sensors attached to the arm.</em>
+</p>
 
+
+<p align="center">
+  <img src="ICRA Graphical Abstract.jpg" width="700" alt="Experimental setup showing a human participant interacting with a collaborative robot while wearing sEMG sensors on the arm"/>
+  <br>
+  <em>Experimental setup: human participant interacting with a collaborative robot under admittance control, with sEMG sensors attached to the arm.</em>
+</p>
