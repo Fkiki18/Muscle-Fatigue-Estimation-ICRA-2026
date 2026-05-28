@@ -45,14 +45,14 @@ were also tested on unseen movement directions to evaluate cross-task generaliza
 
 ---
 <p align="center">
-  <img src="ICRA 2026 Poster.jpg" width="700" alt="Experimental setup showing a human participant interacting with a collaborative robot while wearing sEMG sensors on the arm"/>
+  <img src="ICRA 2026 Poster.jpg" width="700" alt="ICRA 2026 Poster. SHowing the main results and our approach."/>
   <br>
   <em>Experimental setup: human participant interacting with a collaborative robot under admittance control, with sEMG sensors attached to the arm.</em>
 </p>
 
 
 <p align="center">
-  <img src="ICRA Graphical Abstract.jpg" width="700" alt="Experimental setup showing a human participant interacting with a collaborative robot while wearing sEMG sensors on the arm"/>
+  <img src="ICRA 2026 Graphical Abstract.jpg" width="700" alt="ICRA 2026 Poster. Main system workflow"/>
   <br>
   <em>Experimental setup: human participant interacting with a collaborative robot under admittance control, with sEMG sensors attached to the arm.</em>
 </p>
