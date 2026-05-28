@@ -15,7 +15,7 @@ interacting with a collaborative robot performing cyclic arm movements. The mode
 were also tested on unseen movement directions to evaluate cross-task generalization.
 
 <p align="center">
-  <img src="assets/imgs/system_overview.png" width="700" alt="Experimental setup showing a human participant interacting with a collaborative robot while wearing sEMG sensors on the arm"/>
+  <img src="assets/imgs/System Workflow.png" width="700" alt="Experimental setup showing a human participant interacting with a collaborative robot while wearing sEMG sensors on the arm"/>
   <br>
   <em>Experimental setup: human participant interacting with a collaborative robot under admittance control, with sEMG sensors attached to the arm.</em>
 </p>
